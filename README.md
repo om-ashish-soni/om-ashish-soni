@@ -13,16 +13,26 @@
       My name is Om Ashish Soni . I am currently pursuing B-Tech in Computer Science 
       At Dharmsinh Desai University , Nadiad.
 
-      Currently I am in 4th semester.
+      Currently I am in 5th semester.
 
 ## Problem Solving : 
 
       I have interest in competitive programming.
 
-      I am 5 star coder on codechef and pupil at codeforces and participated in kickstart 2021 and 2022.
+      I am 4 star coder on codechef and pupil at codeforces and participated in kickstart 2021 and 2022.
 
       Languages and tools : 
       I am familiar with C++ ( intermediate) , Python(basic) and Node.js and express.
+      
+## Work experience : 
+      
+      I am SDE Intern at Simulas organization , playing role as a backend developer.
+      
+## Acheivements :
+      
+      Solved more that 1000 problems of competitive programming.
+      In one codechef contest , i was in top 5 global rank
+      Solved more that 300 problems of Data structures and algorithms on leetcode.
 
 ## Development : 
 
@@ -35,7 +45,6 @@
       Amazon - clone
       Youtube - clone
       Instagram - clone
-
 
 
 ## More About Me : 
