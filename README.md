@@ -1,7 +1,6 @@
-### Hi there 👋
-
 
 # Introduction : 
+
 ### Hi there 👋  i am Om Ashish Soni
 
 
