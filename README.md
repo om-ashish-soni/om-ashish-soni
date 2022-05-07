@@ -41,7 +41,7 @@
 
 ## More About Me : 
 
-      - 🔭 I’m currently working on competitive programming
+      - 🔭 I’m currently working on **competitive programming**
       - 🌱 I’m currently learning competitive programming
       - 👯 I’m looking to collaborate on competitive programming
       - 🤔 I’m looking for help for competitive programming
