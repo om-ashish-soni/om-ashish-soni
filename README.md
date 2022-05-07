@@ -42,11 +42,11 @@
 ## More About Me : 
 
       - 🔭 I’m currently working on __competitive programming__
-      - 🌱 I’m currently learning competitive programming
-      - 👯 I’m looking to collaborate on competitive programming
-      - 🤔 I’m looking for help for competitive programming
-      - 💬 Ask me about competitive programming
-      - 📫 reach out to me for competitive programming
-      - 😄 challange , fun , joy is in what ? Ans : *competitive programming*
-      - ⚡ Fun fact is competitive programming
+      - 🌱 I’m currently learning __competitive programming__
+      - 👯 I’m looking to collaborate on __competitive programming__
+      - 🤔 I’m looking for help for __competitive programming__
+      - 💬 Ask me about __competitive programming__
+      - 📫 reach out to me for __competitive programming__
+      - 😄 challange , fun , joy is in what ? Ans : __competitive programming__
+      - ⚡ Fun fact is __competitive programming__
 
