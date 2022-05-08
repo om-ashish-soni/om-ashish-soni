@@ -66,18 +66,18 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=vasu-1&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px" >
+      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px" >
     </td>
     <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=vasu-1&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
+        <img src ="https://github-readme-streak-stats.herokuapp.com?user=om-ashish-soni&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
     </td>
   </tr>
     <tr>
     <td align="center">
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vasu-1&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
     </td>
       <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=vasu-1&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
+        <img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
       </td>
   </tr>
 </table>
@@ -86,11 +86,10 @@
 
 ## Connect with me
 
-[<img alt="vasu-1.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
-[<img alt="vashishth | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img alt="vashishth | Facebook"  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />][facebook]
-[<img alt="vashishth | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="vashishth | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
+[<img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img alt="om-ashish-soni | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="om-ashish-soni | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 ---
 
@@ -140,23 +139,19 @@
 
 <details>
   <summary> <b> Website Performance </b></summary>
-<img src="https://metrics.lecoq.io/vasu-1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
+<img src="https://metrics.lecoq.io/om-ashish-soni?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </details>
 
 <details>
 <summary> <b> GitHub Achievements </b></summary>
-<img src="https://github-profile-trophy.vercel.app/?username=vasu-1&theme=monokai">
+<img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni&theme=monokai">
 </details>
 
 
-[website]: https://vasu-1.github.io/
-[facebook]: https://www.facebook.com/people/Vashishth-Patel/100071806075318/
-[youtube]: https://www.youtube.com/channel/UCT_aAHVTwIPvW3mEUfHbB7g
-[instagram]: https://www.instagram.com/vashishthchaudhary/
-[linkedin]: https://www.linkedin.com/in/vashishth-patel-312a52204/
-[askubuntu]: https://askubuntu.com/users/1357742/vashishth-patel
-[codechef]: https://www.codechef.com/users/vashishth48
-[hackerrank]: https://www.hackerrank.com/vashishthchaudh1
-[github]: https://www.github.com/vasu-1
-[qwicklabs]: https://www.cloudskillsboost.google/public_profiles/bf321214-af50-491e-a010-8fed8cb3d177
-[devfolio]: https://devfolio.co/@vashisht
+[website]: https://om-ashish-soni.github.io/
+[youtube]: https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q
+[linkedin]: www.linkedin.com/in/om-ashish-soni
+[codechef]: https://www.codechef.com/users/om_ashish_soni
+[hackerrank]: https://www.hackerrank.com/om_ashish_soni
+[github]: https://www.github.com/om_ashish_soni
+[codeforces]: https://codeforces.com/profile/om_ashish_soni
