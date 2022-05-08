@@ -7,9 +7,8 @@
 <!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&langs_count=10&hide=jupyter%20notebook,tex,php">
-<img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni" >
-<img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni&theme=monokai">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni">
+<img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni">
 
 ## Study : 
 
@@ -66,20 +65,28 @@
 
 ## Connect with me
 
+
 <img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 <img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/CE140_Om_Soni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 
+
 # On various platform : 
 
-![website]:(https://om-ashish-soni.github.io/)
-![youtube]:(https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
-![linkedin]:(www.linkedin.com/in/om-ashish-soni)
-![codechef]:(https://www.codechef.com/users/om_ashish_soni)
-![hackerrank]:(https://www.hackerrank.com/om_ashish_soni)
-![github]:(https://www.github.com/om_ashish_soni)
-![codeforces]:(https://codeforces.com/profile/om_ashish_soni)
+      ![website]:(https://om-ashish-soni.github.io/)
 
----
+      ![youtube]:(https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
+
+      ![linkedin]:(www.linkedin.com/in/om-ashish-soni)
+
+      ![codechef]:(https://www.codechef.com/users/om_ashish_soni)
+
+      ![hackerrank]:(https://www.hackerrank.com/om_ashish_soni)
+
+      ![github]:(https://www.github.com/om_ashish_soni)
+
+      ![codeforces]:(https://codeforces.com/profile/om_ashish_soni)
+
+
 
 ## Competencies
 
