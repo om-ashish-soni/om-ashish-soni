@@ -62,30 +62,7 @@
 
 
 
-
-## Github Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px" >
-    </td>
-    <td align="center">
-        <img src ="https://github-readme-streak-stats.herokuapp.com?user=om-ashish-soni&theme=vision-friendly-dark&hide_border=true" width="400px" height="180px">
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-        
-    </td>
-      <td>
-        
-      </td>
-  </tr>
-</table>
-
-<br>
-
+()
 ## Connect with me
 
 [<img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
@@ -125,10 +102,10 @@
 
 
 
-[website]: https://om-ashish-soni.github.io/
-[youtube]: https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q
-[linkedin]: www.linkedin.com/in/om-ashish-soni
-[codechef]: https://www.codechef.com/users/om_ashish_soni
-[hackerrank]: https://www.hackerrank.com/om_ashish_soni
-[github]: https://www.github.com/om_ashish_soni
-[codeforces]: https://codeforces.com/profile/om_ashish_soni
+![website]: (https://om-ashish-soni.github.io/)
+![youtube]: (https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
+![linkedin]: (www.linkedin.com/in/om-ashish-soni)
+![codechef]: (https://www.codechef.com/users/om_ashish_soni)
+![hackerrank]: (https://www.hackerrank.com/om_ashish_soni)
+![github]: (https://www.github.com/om_ashish_soni)
+![codeforces]: (https://codeforces.com/profile/om_ashish_soni)
