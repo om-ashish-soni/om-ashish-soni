@@ -71,13 +71,13 @@
 
 # On various platform : 
 
-![website]: (https://om-ashish-soni.github.io/)
-![youtube]: (https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
-![linkedin]: (www.linkedin.com/in/om-ashish-soni)
-![codechef]: (https://www.codechef.com/users/om_ashish_soni)
-![hackerrank]: (https://www.hackerrank.com/om_ashish_soni)
-![github]: (https://www.github.com/om_ashish_soni)
-![codeforces]: (https://codeforces.com/profile/om_ashish_soni)
+![website]:(https://om-ashish-soni.github.io/)
+![youtube]:(https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
+![linkedin]:(www.linkedin.com/in/om-ashish-soni)
+![codechef]:(https://www.codechef.com/users/om_ashish_soni)
+![hackerrank]:(https://www.hackerrank.com/om_ashish_soni)
+![github]:(https://www.github.com/om_ashish_soni)
+![codeforces]:(https://codeforces.com/profile/om_ashish_soni)
 
 ---
 
