@@ -6,9 +6,13 @@
 
 <!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
+
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
+
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni">
+
 <img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni">
+
 
 ## Study : 
 
