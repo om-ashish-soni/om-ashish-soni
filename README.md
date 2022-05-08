@@ -7,8 +7,9 @@
 <!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
-<img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&langs_count=10&hide=jupyter%20notebook,tex,php">
+<img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni&bg_color=111111&line=ffb812&area=true&color=8135fc&hide_title=true" >
+<img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni&theme=monokai">
 ## Study : 
 
       My name is Om Ashish Soni . I am currently pursuing B-Tech in Computer Science 
@@ -122,10 +123,6 @@
 
 
 
-<details>
-<summary> <b> GitHub Achievements </b></summary>
-<img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni&theme=monokai">
-</details>
 
 
 [website]: https://om-ashish-soni.github.io/
