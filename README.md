@@ -69,8 +69,6 @@
 
 ## Connect with me
 
-
-[Om Ashish Soni Portfolio](https://github.com/om-ashish-soni/)
 <img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/CE140_Om_Soni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 
 
