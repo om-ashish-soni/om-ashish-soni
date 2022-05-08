@@ -7,7 +7,8 @@
 <!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
-
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+<img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
 ## Study : 
 
       My name is Om Ashish Soni . I am currently pursuing B-Tech in Computer Science 
@@ -74,10 +75,10 @@
   </tr>
     <tr>
     <td align="center">
-        <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&layout=compact&hide_border=true&theme=vision-friendly-dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
+        
     </td>
       <td>
-        <img src="https://activity-graph.herokuapp.com/graph?username=om-ashish-soni&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true" width="400px" height="180px">
+        
       </td>
   </tr>
 </table>
@@ -88,7 +89,7 @@
 
 [<img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
 [<img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/CE140_Om_Soni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
-[<img alt="om-ashish-soni | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
 
 ---
 
