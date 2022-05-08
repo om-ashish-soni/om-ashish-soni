@@ -70,7 +70,7 @@
 ## Connect with me
 
 
-<img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/om-ashish-soni.github.io-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+[Om Ashish Soni Portfolio](https://github.com/om-ashish-soni/)
 <img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/CE140_Om_Soni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 
 
