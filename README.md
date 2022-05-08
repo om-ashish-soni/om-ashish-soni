@@ -87,9 +87,8 @@
 ## Connect with me
 
 [<img alt="om-ashish-soni.github.io"  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />][website]
-[<img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/Sky_Is_Your_Limit-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
+[<img alt="om-ashish-soni | YouTube"  src="https://img.shields.io/badge/CE140_Om_Soni-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img alt="om-ashish-soni | LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="om-ashish-soni | Instagram"  src="https://img.shields.io/badge/vashishthchaudhary-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 ---
 
