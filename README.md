@@ -41,7 +41,7 @@
       Solved more that 1000 problems of competitive programming.
       In one codechef contest , i was in top 5 global rank
       Solved more that 300 problems of Data structures and algorithms on leetcode.
-
+ 
 ## Development : 
 
      Carrying out interest in problem solving, i have put some effort in web development.
