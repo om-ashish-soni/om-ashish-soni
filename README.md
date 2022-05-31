@@ -34,7 +34,7 @@
       
 ## Work experience : 
       
-      I am SDE Intern at Simulas organization , playing role as a backend developer.
+      I am SDE Intern at Simulas organization , playing role as a backend developer creating and maintaining api 
       
 ## Acheivements :
       
