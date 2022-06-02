@@ -1,7 +1,7 @@
 
 # Introduction : 
 
-### Hi there 👋  i am Om Ashish Soni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there 👋  i am Om Ashish Soni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 ### My Portfolio : https://om-ashish-soni.herokuapp.com/
 
