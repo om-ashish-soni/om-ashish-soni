@@ -50,6 +50,8 @@
       
 ## Projects : 
       Apart from that i have been developing some projects in that the main are 
+      online - ide
+      search engine
       Amazon - clone
       Youtube - clone
       Instagram - clone
