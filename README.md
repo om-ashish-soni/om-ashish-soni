@@ -34,8 +34,8 @@
       I am familiar with C++ ( intermediate) , JAVA (oop) ,Python(basic) and Node.js and express.
       
 ## Work experience : 
-      
-      I am SDE Intern at Simulas organization , playing role as a backend developer creating and maintaining api 
+      I am Upcoming SDE Intern at MasterCard.
+      I have experience of SDE Intern at Simulas organization , playing role as a backend developer creating and maintaining api 
       
 ## Acheivements :
       
