@@ -31,7 +31,7 @@
       I am 4 star coder on codechef and pupil at codeforces and participated in kickstart 2021 and 2022.
 
       Languages and tools : 
-      I am familiar with C++ ( intermediate) , Python(basic) and Node.js and express.
+      I am familiar with C++ ( intermediate) , JAVA (oop) ,Python(basic) and Node.js and express.
       
 ## Work experience : 
       
@@ -47,10 +47,12 @@
 
      Carrying out interest in problem solving, i have put some effort in web development.
 
-     I have interest in making Restful api in node and express and mysql database.
+     I have interest in making Restful api in node and express and MongoDB database.
       
 ## Projects : 
       Apart from that i have been developing some projects in that the main are 
+      
+      Saraswati Online Judge - Competitive coding and DSA Practise website
       online - ide
       search engine
       Amazon - clone
