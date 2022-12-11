@@ -12,7 +12,7 @@
 
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&exclude_repo=soj-android">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&exclude_repo=soj-android,SDP,saraswati-education-system-backend,om-ashish-soni,saraswati-online-judge,soj,oms-tic-tac-toe,8086_microprocessor,aharnish,om-ashish-soni.github.io,leetcode-questions,vim-configuration,search-engine,online-ide,aharnish-frontend,rest-api-on-cloud-heroku-firebase">
 
 <img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni">
 
