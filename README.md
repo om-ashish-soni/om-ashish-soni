@@ -39,9 +39,9 @@
       
 ## Acheivements :
       
-      Solved more that 1000 problems of competitive programming.
+      Solved more that 1500 problems of competitive programming.
       In one codechef contest , i was in top 5 global rank
-      Solved more that 300 problems of Data structures and algorithms on leetcode.
+      Solved more that 600 problems of Data structures and algorithms on leetcode.
  
 ## Development : 
 
