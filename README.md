@@ -12,7 +12,7 @@
 
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&exclude_repo=soj-android">
 
 <img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni">
 
@@ -22,7 +22,7 @@
       My name is Om Ashish Soni . I am currently pursuing B-Tech in Computer Science 
       At Dharmsinh Desai University , Nadiad.
 
-      Currently I am in 5th semester.
+      Currently I am in 6th semester.
 
 ## Problem Solving : 
 
