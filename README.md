@@ -11,36 +11,40 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 </div>
 
 
-<h3>
+<h4>
 <p>
-<img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" height="30">
+<img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" width="30">
   Upcoming SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
   </a>
   
 </p>
 <p>
-<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
+<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="30">
   Former SDE Intern <a href="https://simulas.in/">Simulas
   </a>
   
 <p>
 <p>
-<img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" height="30">
+<img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="30">
   B.Tech. CE 2020-2024 <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a>
   
 </p>
+  
+
+</p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  President of  <a href="https://www.linkedin.com/company/codechef-ddu-chapter/">Codechef DDU Chapter</a>
+  
+</p>
+
 <p>
-<img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="36">
+<img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="30">
   Campus Ambassador of <a href="https://www.tcs.com/">TCS</a>
   
 </p>
 
-</p>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  President of Codechef DDU Chapter <a href="https://www.linkedin.com/company/codechef-ddu-chapter/">Codechef DDU</a>
-  
-</p>
-</h3>
+
+</h4>
 <br/>
 
 [![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
