@@ -4,7 +4,7 @@
 
 ## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
 
-<!-- <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" height="24%"> -->
+<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
 A passionate software engineer with expertise in competitive coding, software development, and a bit in machine learning and Deep Learning.
 
@@ -14,7 +14,8 @@ A passionate software engineer with expertise in competitive coding, software de
 
 <p>
   Upcoming SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
-  <img style="display:inline;" src="https://media.giphy.com/media/rtg6G39riKJtT5ph7y/giphy.gif" width="100"></a>
+  </a>
+  <img style="display:inline;" src="https://media.giphy.com/media/rtg6G39riKJtT5ph7y/giphy.gif" width="100">
 </p>
 <p>
   Former SDE Intern <a href="https://simulas.in/">Simulas
