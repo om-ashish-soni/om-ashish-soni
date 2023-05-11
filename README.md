@@ -1,10 +1,81 @@
 
 # Introduction : 
 
-# Hi there! 👋 i am Om Ashish Soni 
+## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
 
-I'm Om Ashish Soni, a passionate software engineer with expertise in competitive coding, web development, and machine learning. Welcome to my GitHub profile!
+<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
+I'm Om Ashish Soni, a passionate software engineer with expertise in competitive coding, software development, and a bit in machine learning and Deep Learning.
+
+
+
+
+
+<p>
+  Upcoming SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
+  <img style="display:inline;" src="https://media.giphy.com/media/rtg6G39riKJtT5ph7y/giphy.gif" width="100"></a>
+</p>
+<p>
+  Former SDE Intern <a href="https://simulas.in/">Simulas
+  </a>
+  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="20">
+<p>
+<p>
+  B.Tech. CE 2020-2024 <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a>
+  <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" height="20">
+</p>
+<p>
+  Campus Ambassador of <a href="https://www.tcs.com/">TCS</a>
+  <img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="36">
+</p>
+
+</p>
+
+  President of Codechef DDU Chapter <a href="https://www.linkedin.com/company/codechef-ddu-chapter/">Codechef DDU</a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+
+[![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
+[![Linkedin: om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
+[![GitHub om-ashish-soni](https://img.shields.io/github/followers/om-ashish-soni?label=follow&style=social)](https://github.com/om-ashish-soni/)
+[![Medium @om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-gray?style=flat&logo=medium)](https://medium.com/@om-ashish-soni)
+[![Quora @Om-Ashish-Soni](https://img.shields.io/badge/-Om--Ashish--Soni-red?style=flat&logo=quora)](https://www.quora.com/profile/Om-Ashish-Soni)
+[![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
+[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
+
+
+### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="30"> A little more about me...  
+
+```javascript
+var OM_ASHISH_SONI = {
+  pronouns: "he" | "him",
+  code: [ Java, Python, C++, Javascript ],
+  tools: [ Google Cloud GCP, Docker, AWS S3, Git, GitHub, PostMan, Google Colab ],
+  frameworks: [ Spring Boot, Node, Angular, React, Flutter ],
+  experience: {
+    upcomingInternship: "SWE Intern @ Mastercard",
+    formerInternship: "SDE Intern @ Simulas"
+  },
+  competitiveProgrammingSkills: {
+    CodeForces: "Expert (1656)",
+    Codechef: "5 ⭐ (2041)",
+    LeetCode: "Guardian (2178)"
+  },
+  techCommunities: {
+    President: "Codechef DDU Chapter",
+    Ambassador: "TCS Campus Ambassador of DDU",
+    Member: "Cohere for AI Community"
+  },
+  about: "I am a computer science undergrad who is passionate about learning and creating solutions.\n
+          I have worked with web, mobile, and have experience in Machine Learning and Deep Learning.\n
+          Currently, I am exploring many horizons and participating in competitive programming."
+}
+
+
+```
+
+
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
 
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
@@ -62,19 +133,19 @@ Here are some noteworthy projects I've worked on:
 
 1. **Competitive Coding Hub** (Web, Android, iOS)
    - Tech stack: MongoDB, Angular, Node.js, Express.js, Flutter, JWT, ACE lib
-   - Description: A comprehensive platform for competitive programming and DSA practice. It offers a wide variety of programming problems and features solutions in C++, Python, and JavaScript. Users can also create code backups and contribute new problems.
+   - Description: A comprehensive platform for competitive programming and DSA practice, offering programming problems and solutions in C++, Python, and JavaScript.
 
 2. **Network Graph Visualizer** (Web App)
    - Tech stack: SVG, jQuery, JavaScript
-   - Description: An interactive web application that visualizes and downloads graphs. It provides real-time updates and synchronization of visualizations with dynamic input modifications.
+   - Description: An interactive web app for visualizing and downloading graphs with real-time updates and dynamic input modifications.
 
 3. **AI Medical X-Ray Diagnostic System** (Web)
    - Tech stack: Deep Learning, Image Processing, TorchX-Ray Vision, Python, Stanford ML CheXpert Dataset, Django
-   - Description: An AI system capable of diagnosing 14 chest diseases with 90% accuracy. It performs image processing and chest X-ray analysis to generate medical reports.
+   - Description: An AI system capable of diagnosing 14 chest diseases with 90% accuracy using deep learning and image processing techniques.
 
 4. **AI-based Student GPA Predictor** (Web)
    - Tech stack: Linear Regression, Python, NumPy, PyTorch
-   - Description: Developed an AI model that predicts a student's SPI (GPA) based on their internal exam marks. The model was built using linear regression and the Gradient Descent algorithm.
+   - Description: Developed an AI model using linear regression and Gradient Descent algorithm to predict a student's GPA based on their internal exam marks.
 
 
 ## Get in Touch
