@@ -6,37 +6,41 @@
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
-A passionate software engineer with expertise in competitive coding, software development, and a bit in machine learning and Deep Learning.
+A **passionate software engineer** with expertise in **competitive coding, software development**, and a bit in Machine Learning and Deep Learning.
 
 </div>
 
 
-
+<h3>
 <p>
+<img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" height="30">
   Upcoming SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
   </a>
-  <img style="display:inline;" src="https://media.giphy.com/media/rtg6G39riKJtT5ph7y/giphy.gif" width="100">
+  
 </p>
 <p>
+<img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
   Former SDE Intern <a href="https://simulas.in/">Simulas
   </a>
-  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="20">
+  
 <p>
 <p>
+<img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" height="30">
   B.Tech. CE 2020-2024 <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a>
-  <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" height="20">
+  
 </p>
 <p>
+<img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="36">
   Campus Ambassador of <a href="https://www.tcs.com/">TCS</a>
-  <img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="36">
+  
 </p>
 
 </p>
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   President of Codechef DDU Chapter <a href="https://www.linkedin.com/company/codechef-ddu-chapter/">Codechef DDU</a>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
 </p>
-
+</h3>
 <br/>
 
 [![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
