@@ -1,6 +1,4 @@
 
-# Introduction : 
-
 # Hi there! 👋 i am Om Ashish Soni 
 
 I'm Om Ashish Soni, a passionate software engineer with expertise in competitive coding, web development, and machine learning. Welcome to my GitHub profile!
@@ -8,9 +6,6 @@ I'm Om Ashish Soni, a passionate software engineer with expertise in competitive
 ![om-ashish-soni github stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni&show_icons=true)  
 
 ![om-ashish-soni streak stats](https://github-readme-streak-stats.herokuapp.com/?user=om-ashish-soni&)  
-
-
-
 
 
 
