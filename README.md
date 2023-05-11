@@ -29,7 +29,7 @@ A **passionate software engineer** with expertise in **competitive coding, softw
    <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="20">
 </p>
 
-<p style="margin-top:16px">
+<p style="margin-top:20px">
 
   Campus Ambassador of <a href="https://www.tcs.com/">TCS</a>
 <img src="https://media.giphy.com/media/d33yf9SI1RsdSA0H7u/giphy.gif" width="30">  
