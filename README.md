@@ -1,11 +1,12 @@
 
 # Introduction : 
 <div>
+
 ## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
 
-<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
+<!-- <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" height="24%"> -->
 
-I'm Om Ashish Soni, a passionate software engineer with expertise in competitive coding, software development, and a bit in machine learning and Deep Learning.
+A passionate software engineer with expertise in competitive coding, software development, and a bit in machine learning and Deep Learning.
 
 </div>
 
@@ -35,16 +36,20 @@ I'm Om Ashish Soni, a passionate software engineer with expertise in competitive
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 
+<br/>
+
 [![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
 [![Linkedin: om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
 [![GitHub om-ashish-soni](https://img.shields.io/github/followers/om-ashish-soni?label=follow&style=social)](https://github.com/om-ashish-soni/)
 [![Medium @om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-gray?style=flat&logo=medium)](https://medium.com/@om-ashish-soni)
 [![Quora @Om-Ashish-Soni](https://img.shields.io/badge/-Om--Ashish--Soni-red?style=flat&logo=quora)](https://www.quora.com/profile/Om-Ashish-Soni)
-[![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
-[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q)
+<!-- [![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
+[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q) -->
 
 
-### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="30"> A little more about me...  
+### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"> A little more about me...  
+
+<br/>
 
 ```javascript
 var OM_ASHISH_SONI = {
