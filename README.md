@@ -1,11 +1,7 @@
 
-<<<<<<< HEAD
 # Introduction : 
 
 ## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
-=======
-# Hi there! 👋 i am Om Ashish Soni 
->>>>>>> 9a727fc77f95a9cc20904e5f4a9327012454f62b
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
