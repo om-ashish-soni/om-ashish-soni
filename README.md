@@ -21,12 +21,12 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 
   Former SDE Intern <a href="https://simulas.in/">Simulas
   </a>
-  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="30">
+  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
 <p>
-<p  >
+<p>
 
   B.Tech. CE 2020-2024 <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a>
-   <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="30">
+   <img src="https://media.giphy.com/media/EzWeaUtmerGTiNbZF6/giphy.gif" width="20">
 </p>
 
 <p style="margin-top:16px">
