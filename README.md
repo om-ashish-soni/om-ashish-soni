@@ -147,11 +147,7 @@ Here are some noteworthy projects I've worked on:
    - Tech stack: SVG, jQuery, JavaScript
    - Description: An interactive web app for visualizing and downloading graphs with real-time updates and dynamic input modifications.
 
-3. **AI Medical X-Ray Diagnostic System** (Web)
-   - Tech stack: Deep Learning, Image Processing, TorchX-Ray Vision, Python, Stanford ML CheXpert Dataset, Django
-   - Description: An AI system capable of diagnosing 14 chest diseases with 90% accuracy using deep learning and image processing techniques.
-
-4. **AI-based Student GPA Predictor** (Web)
+3. **Student GPA Predictor** (Web)
    - Tech stack: Linear Regression, Python, NumPy, PyTorch
    - Description: Developed an AI model using linear regression and Gradient Descent algorithm to predict a student's GPA based on their internal exam marks.
 
@@ -166,20 +162,7 @@ If you have any questions or would like to collaborate, reach out to me. I'm alw
 - YouTube: [@omashishsoni948 YouTube](https://www.youtube.com/@omashishsoni948/)
 
   
-## More About Me
 
-- 🔭 I’m currently working on: Competitive programming
-- 🌱 I’m currently learning: Competitive programming
-- 👯 I’m looking to collaborate on: Competitive programming projects
-- 🤔 I’m looking for help with: Competitive programming challenges
-- 💬 Ask me about: Competitive programming or any coding-related questions
-- 📫 How to reach me: Feel free to connect with me for any competitive programming discussions
-- 😄 Challenge, fun, joy lie in: Competitive programming
-- ⚡ Fun fact: Competitive programming is my passion!
-
-Let's dive into the exciting world of competitive programming together!
-
-Stay curious and keep coding! 😄
 
 
 <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=om-ashish-soni&exclude_repo=soj-android,SDP,saraswati-education-system-backend,om-ashish-soni,saraswati-online-judge,soj,oms-tic-tac-toe,8086_microprocessor,aharnish,om-ashish-soni.github.io,leetcode-questions,vim-configuration,search-engine,online-ide,aharnish-frontend,rest-api-on-cloud-heroku-firebase,react-testing-crud-api-node-express-mongo-heroku,instagram_clone,youtube-clone-by-om-soni,amazon-clone-by-om-soni,jenkins,instagram_clone_android_ios_app,codechef_clone,cognitive-test-portal,keep-notes-om-soni,ICTWIIb_Project_CE121_CE074,codeforces-api,scc,SaraswatiCodingClub,api.aharnish,online-ide-deployed-heroku,dumping-repo,online_job_portal_django_project,om_soni_online_job_portal_django,online_job_portal,online_ide,complete-insta-clone-app-react-native-firebase,raw-insta-app-react-native-firebase,user-registration-app-react-native-firebase,file-uploader-to-firebase9-using-react-native,image-picker-with-display-react-native,file-picker-react-native,react-native-first-todo-app,firebase-v9.3.0_with_react,complete-amazon-clone,amazon-raw-clone,complete-youtube-clone,youtube-raw-clone,google-keep-clone,instagram-clone,amaxon-clone,whatsapp-clone,excell-sheets-clone"> -->
@@ -195,9 +178,9 @@ Stay curious and keep coding! 😄
 Here are my key competencies and skills:
 
 - ![java](https://img.shields.io/badge/java-%FFA500.svg?style=for-the-badge&logo=java&logoColor=white)
-- ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - ![cpp](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Web & Software Development
 
@@ -205,10 +188,10 @@ Here are my key competencies and skills:
 - ![node](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 - ![react](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 - ![angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-- ![flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+<!-- - ![flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  -->
 
 
-### Cloud Platforms
+### Cloud Technologies
 
 - ![gcp](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 - ![docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -222,14 +205,14 @@ Here are my key competencies and skills:
 - ![github](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-### Machine Learning & Deep Learning
+<!-- ### Machine Learning & Deep Learning -->
 
-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) scikit-learn
-- ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) pandas
-- ![pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) PyTorch
-- ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) matplotlib
-- ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white) 
-- ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) Kaggle
+<!-- - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) scikit-learn -->
+<!-- - ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) pandas -->
+<!-- - ![pytorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) PyTorch -->
+<!-- - ![matplotlib](https://img.shields.io/badge/matplotlib-%23FF6C37.svg?style=for-the-badge&logo=matplotlib&logoColor=white) matplotlib -->
+<!-- - ![colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)  -->
+<!-- - ![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white) Kaggle -->
 
 
 ### Testing
@@ -237,5 +220,22 @@ Here are my key competencies and skills:
 - ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
 
+
+
+
+## More About Me
+
+- 🔭 I’m currently working on: Competitive programming
+- 🌱 I’m currently learning: Competitive programming
+- 👯 I’m looking to collaborate on: Competitive programming projects
+- 🤔 I’m looking for help with: Competitive programming challenges
+- 💬 Ask me about: Competitive programming or any coding-related questions
+- 📫 How to reach me: Feel free to connect with me for any competitive programming discussions
+- 😄 Challenge, fun, joy lie in: Competitive programming
+- ⚡ Fun fact: Competitive programming is my passion!
+
+Let's dive into the exciting world of competitive programming together!
+
+Stay curious and keep coding! 😄
 
 <img src="https://github-profile-trophy.vercel.app/?username=om-ashish-soni">
