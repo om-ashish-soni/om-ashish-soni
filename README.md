@@ -13,7 +13,14 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 <h4>
 <p >
 
-  Upcoming SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
+  Upcoming SDE-1 <a href="https://www.mastercard.co.in/en-in.html">MasterCard
+  </a>
+   <img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" width="30">
+</p>
+
+<p >
+
+  Ex-SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
   </a>
    <img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" width="30">
 </p>
