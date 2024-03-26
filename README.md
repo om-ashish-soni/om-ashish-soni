@@ -166,7 +166,7 @@ If you have any questions or would like to collaborate, reach out to me. I'm alw
 - Email: [oms279400@gmail.com](mailto:oms279400@gmail.com)
 - LinkedIn: [@om-ashish-soni LinkedIn](https://www.linkedin.com/in/om-ashish-soni/)
 - Twitter: [@om_ashish_soni Twitter](https://twitter.com/om_ashish_soni)
-- YouTube: [@omashishsoni948 YouTube](https://www.youtube.com/@omashishsoni948/)
+- YouTube: [@om_ashish_soni YouTube](https://www.youtube.com/@om_ashish_soni/)
 
   
 
