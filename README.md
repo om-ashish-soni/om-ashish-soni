@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
 
-A **passionate software engineer** with expertise in **competitive coding, software development**, and a bit in Machine Learning and Deep Learning.
+A **passionate software engineer & AI Engineer** with expertise in **competitive coding, software development , AI Engineering & NLP Researcher**, and actively training Machine Learning and Deep Learning models.
 
 </div>
 
@@ -20,14 +20,36 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 
 <p >
 
+  NLP Researcher @ Dharmsinh Desai University ( July - 2023 to Feb - 2024 )
+  <a href="https://guj-pos-morph.streamlit.app/pos_morph_model"> Guj POS Tagging & Morph Analyzer </a>
+   
+</p>
+
+<p >
+
+  
+  <a href="https://www.linkedin.com/posts/om-ashish-soni_gate2024-omashishsoni-consistency-activity-7174749695750135808--nFo?utm_source=share&utm_medium=member_desktop"> AIR 2.5k Gate CSE'24 with Gate Score 599, in Top 2.5k CS Engineers across India.  </a>
+   
+</p>
+
+
+<p >
+
   Ex-SWE Intern <a href="https://www.mastercard.co.in/en-in.html">MasterCard
   </a>
    <img  src="https://media.giphy.com/media/jw5xopDRF7ligRb6Kj/giphy.gif" width="30">
 </p>
+
 <p>
 
-  Former SDE Intern <a href="https://simulas.in/">Simulas
-  </a>
+  Node JS Intern <a href="https://simulas.in/">Simulas
+  </a> ( November - 2023 to Present)
+  <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
+<p>
+<p>
+
+  Former SDE Intern <a href="https://simulas.in/">Simulas 
+  </a> ( May - 2022 to July 2022 )
   <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
 <p>
 <p>
@@ -55,7 +77,7 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 <br/>
 
 [![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
-[![Linkedin: om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
+[![Linkedin: om-ashish-soni (Top Algorithm Voice) ](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
 [![GitHub om-ashish-soni](https://img.shields.io/github/followers/om-ashish-soni?label=follow&style=social)](https://github.com/om-ashish-soni/)
 [![Medium @om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-gray?style=flat&logo=medium)](https://medium.com/@om-ashish-soni)
 [![Quora @Om-Ashish-Soni](https://img.shields.io/badge/-Om--Ashish--Soni-red?style=flat&logo=quora)](https://www.quora.com/profile/Om-Ashish-Soni)
@@ -70,12 +92,14 @@ A **passionate software engineer** with expertise in **competitive coding, softw
 ```javascript
 var OM_ASHISH_SONI = {
   pronouns: "he" | "him",
+  aka : "Top Algorithm Voice on LinkedIn",
   code: [ Java, Python, C++, Javascript ],
-  tools: [ Google Cloud GCP, Docker, AWS S3, Git, GitHub, PostMan, Google Colab ],
-  frameworks: [ Spring Boot, Node, Angular, React, Flutter ],
+  tools: [ Google Cloud GCP, Docker, AWS S3, Git, GitHub, PostMan, Google Colab , VS Code, IntelliJ , Streamlit ],
+  frameworks: [ Spring Boot, Node, Angular, React, Flutter , Streamlit , Hugging Face Transformers ],
   experience: {
     upcomingInternship: "SWE Intern @ Mastercard",
-    formerInternship: "SDE Intern @ Simulas"
+    formerInternship: "SDE Intern @ Simulas",
+    research : "NLP Researcher @DDU"
   },
   competitiveProgrammingSkills: {
     CodeForces: "Expert (1656)",
@@ -84,10 +108,11 @@ var OM_ASHISH_SONI = {
   },
   techCommunities: {
     President: "Codechef DDU Chapter",
-    Ambassador: "TCS Campus Ambassador of DDU",
+    Leading : "DDU Coding Community",
+    Ambassador: "Ex. TCS Campus Ambassador of DDU",
     Member: "Cohere for AI Community"
   },
-  about: "I am a computer science undergrad who is passionate about learning and creating solutions.\n
+  about: "I am a computer science undergrad & NLP Researcher & Software Engineer who is passionate about learning and creating solutions.\n
           I have worked with web, mobile, and have experience in Machine Learning and Deep Learning.\n
           Currently, I am exploring many horizons and participating in competitive programming."
 }
@@ -114,7 +139,7 @@ I have a strong passion for competitive programming and have achieved significan
 
 ## Education
 
-- B.Tech. in Computer Engineering (3rd Year) - Dharmsinh Desai University, Nadiad (CPI: 9.55/10.0)
+- B.Tech. in Computer Engineering (3rd Year) - Dharmsinh Desai University, Nadiad (CPI: 9.61/10.0)
 - HSC (11-12 Science) - Shree R.G. Pandya High School, Dabhoi (88%)
 - SSC - Shree M.H. Dayaram Sharda Mandir, Dabhoi (95.17%)
 
@@ -133,10 +158,10 @@ I have a strong passion for competitive programming and have achieved significan
 ## Skills
 
 - Competitive Coding
-- Machine Learning, Deep Learning
+- NLP Research, Machine Learning, Deep Learning
 - Programming Languages: Core Java, Python
-- Web & Software Development: Spring Boot, Spring MVC, Flutter, Node.js, Express.js, React, Angular
-- Tools: GCP Google Cloud, Docker, AWS S3, Google Colab, Git, GitHub, Postman
+- Web & Software Development: Spring Boot, Spring MVC, Flutter, Node.js, Express.js, React, Angular, Django
+- Tools: GCP Google Cloud, Docker, AWS S3, Google Colab, Git, GitHub, Postman, Hugging Face Transformers, Streamlit, Gradio, FAISS Vector Search
 - Techstack: MEAN Stack, MERN Stack
 - Database: MongoDB, MySQL
 
@@ -167,7 +192,7 @@ If you have any questions or would like to collaborate, reach out to me. I'm alw
 - LinkedIn: [@om-ashish-soni LinkedIn](https://www.linkedin.com/in/om-ashish-soni/)
 - Twitter: [@om_ashish_soni Twitter](https://twitter.com/om_ashish_soni)
 - YouTube: [@om_ashish_soni YouTube](https://www.youtube.com/@om_ashish_soni/)
-
+- Hugging Face : [@om-ashish-soni HuggingFace](https://huggingface.co/om-ashish-soni)
   
 
 
@@ -232,6 +257,7 @@ Here are my key competencies and skills:
 
 ## More About Me
 
+<!--
 - 🔭 I’m currently working on: Competitive programming
 - 🌱 I’m currently learning: Competitive programming
 - 👯 I’m looking to collaborate on: Competitive programming projects
@@ -240,8 +266,18 @@ Here are my key competencies and skills:
 - 📫 How to reach me: Feel free to connect with me for any competitive programming discussions
 - 😄 Challenge, fun, joy lie in: Competitive programming
 - ⚡ Fun fact: Competitive programming is my passion!
+-->
 
-Let's dive into the exciting world of competitive programming together!
+-  🔭 I’m currently working on: AI
+- 🌱 I’m currently learning: AI
+- 👯 I’m looking to collaborate on: AI projects
+- 🤔 I’m looking for help with: AI challenges
+- 💬 Ask me about: AI or any coding-related questions
+- 📫 How to reach me: Feel free to connect with me for any AI discussions
+- 😄 Challenge, fun, joy lie in: AI
+- ⚡ Fun fact: AI is my passion!
+
+Let's dive into the exciting world of AI together!
 
 Stay curious and keep coding! 😄
 
