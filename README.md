@@ -171,15 +171,29 @@ I have a strong passion for competitive programming and have achieved significan
 
 Here are some noteworthy projects I've worked on:
 
-1. **Competitive Coding Hub** (Web, Android, iOS)
+
+
+1. **AI Search Engine - Anusandhan** (Web) [Source Code](https://github.com/om-ashish-soni/ai_search_engine)
+   - Tech stack: Python , Streamlit, NodeJS, Playwright, Hugging Face Transformers, Mistral , Mixtral , LLM
+   - Description: Anusandhan is an AI-powered search engine designed to provide real-time search capabilities with concise answers and reference sources. It features a frontend UI written in Streamlit for easy interaction and a backend API developed using Node.js.
+
+2. **Vivechan AI For Spirtual Assistance** (Web) [Source Code](https://github.com/om-ashish-soni/vivechan-multilingual)
+   - Tech stack: Python , Streamlit, FAISS , Hugging Face Transformers, Mistral , Mixtral , LLM
+   - Description: Vivechan AI - a powerful AI capable of reasoning on Spiritual Matters, capable of QnA , Discussions on Spiritual Matters.
+
+3. **TopShlok** (Web) [Source Code](https://github.com/om-ashish-soni/TopShlok) [Live Demo](https://topshlok.streamlit.app/)
+   - Tech stack: Python , Streamlit, Sentence Transformers, Annoy Indices
+   - Description: TopShlok : The AI assistant on Shrimad Bhagwad Geeta Ask any query and it will reply most insightful shlok meaning from Shrimad Bhagwad Geeta
+
+4. **Competitive Coding Hub** (Web, Android, iOS)
    - Tech stack: MongoDB, Angular, Node.js, Express.js, Flutter, JWT, ACE lib
    - Description: A comprehensive platform for competitive programming and DSA practice, offering programming problems and solutions in C++, Python, and JavaScript.
 
-2. **Network Graph Visualizer** (Web App)
+5. **Network Graph Visualizer** (Web App)
    - Tech stack: SVG, jQuery, JavaScript
    - Description: An interactive web app for visualizing and downloading graphs with real-time updates and dynamic input modifications.
 
-3. **Student GPA Predictor** (Web)
+6. **Student GPA Predictor** (Web)
    - Tech stack: Linear Regression, Python, NumPy, PyTorch
    - Description: Developed an AI model using linear regression and Gradient Descent algorithm to predict a student's GPA based on their internal exam marks.
 
