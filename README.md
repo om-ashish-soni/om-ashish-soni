@@ -139,7 +139,7 @@ I have a strong passion for competitive programming and have achieved significan
 
 ## Education
 
-- B.Tech. in Computer Engineering (3rd Year) - Dharmsinh Desai University, Nadiad (CPI: 9.61/10.0)
+- B.Tech. in Computer Engineering (Final Year) - Dharmsinh Desai University, Nadiad (CPI: 9.61/10.0)
 - HSC (11-12 Science) - Shree R.G. Pandya High School, Dabhoi (88%)
 - SSC - Shree M.H. Dayaram Sharda Mandir, Dabhoi (95.17%)
 
