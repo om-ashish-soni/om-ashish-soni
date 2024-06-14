@@ -20,6 +20,15 @@ A **passionate software engineer & AI Engineer** with expertise in **competitive
 
 <p >
 
+  AI Researcher @ Dharmsinh Desai University ( Feb - 2024 to June - 2024 )
+  <a href="https://github.com/om-ashish-soni/vivechan-ai-v3"> Vivechan AI: Extracting Wisdom From Ancient
+Indian Texts Through LLM
+ </a>
+   
+</p>
+
+<p >
+
   NLP Researcher @ Dharmsinh Desai University ( July - 2023 to Feb - 2024 )
   <a href="https://guj-pos-morph.streamlit.app/pos_morph_model"> Guj POS Tagging & Morph Analyzer </a>
    
