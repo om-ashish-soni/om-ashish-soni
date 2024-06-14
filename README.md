@@ -80,18 +80,33 @@ Indian Texts Through LLM
 </p>
 
 
-
-
 </h4>
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{om-ashish-soni}/count.svg" alt="om-ashish-soni :: Visitor's Count" /></p>
+
 <br/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/om-ashish-soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om_ashish_soni" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/om_ashish_soni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="om_ashish_soni" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/om_ashish_soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="om_ashish_soni" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Om_Ashish_Soni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Om_Ashish_Soni" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/oms279400/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="oms279400" height="30" width="40" /></a>
+
+</p>
+
 [![Twitter: om_ashish_soni](https://img.shields.io/twitter/follow/om_ashish_soni?style=social)](https://twitter.com/om_ashish_soni)
-[![Linkedin: om-ashish-soni (Top Algorithm Voice) ](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
+
 [![GitHub om-ashish-soni](https://img.shields.io/github/followers/om-ashish-soni?label=follow&style=social)](https://github.com/om-ashish-soni/)
 [![Medium @om-ashish-soni](https://img.shields.io/badge/-om--ashish--soni-gray?style=flat&logo=medium)](https://medium.com/@om-ashish-soni)
 [![Quora @Om-Ashish-Soni](https://img.shields.io/badge/-Om--Ashish--Soni-red?style=flat&logo=quora)](https://www.quora.com/profile/Om-Ashish-Soni)
-<!-- [![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
-[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q) -->
+<!-- 
+[![Linkedin: om-ashish-soni (Top Algorithm Voice) ](https://img.shields.io/badge/-om--ashish--soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/om-ashish-soni/)
+[![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-Expert-brightgreen.svg)](https://www.stopstalk.com/user/profile/om_ashish_soni)
+[![YouTube](https://img.shields.io/badge/-Om%20Ashish%20Soni-red?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoCysfMdSLjxRnz-fx9ez8Q) 
+-->
 
 
 ### <img src="https://media.giphy.com/media/D1kBaRvs9LmaYU3CsF/giphy.gif" width="50"> A little more about me...  
