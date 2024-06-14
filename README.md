@@ -43,7 +43,7 @@ A **passionate software engineer & AI Engineer** with expertise in **competitive
 <p>
 
   Node JS Intern <a href="https://simulas.in/">Simulas
-  </a> ( November - 2023 to Present)
+  </a> ( November - 2023 to May - 2023)
   <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" height="20">
 <p>
 <p>
