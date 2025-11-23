@@ -1,0 +1,212 @@
+%------------------------
+% Resume Template
+% Author : Om Soni
+%------------------------
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.530in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.45in}
+\addtolength{\textheight}{1in}
+
+\urlstyle{rm}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-10pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-6pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeItemWithoutTitle}[1]{
+  \item\small{
+    {\vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-3pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-----------------------------
+%%%%%%  CV STARTS HERE  %%%%%%
+
+\begin{document}
+
+%---------- PREMIUM HEADER (ERROR-FREE) ----------
+\begin{center}
+
+    % Name
+    {\fontsize{32}{36}\selectfont \textbf{Om Soni}}\\[6pt]
+    
+    % Contact + Profiles line (ASCII icons)
+    {\small
+    \begin{tabular}{lll}
+    Email:~\href{mailto:oms279400@gmail.com}{oms279400@gmail.com}~~~~~~~~~~~
+    &
+    Phone:~\href{tel:+91-6351059578}{+91-6351059578}~~~~~~~~~~~
+    &
+    LinkedIn:~\href{https://linkedin.com/in/om-ashish-soni}{om-ashish-soni}
+    \\
+    GitHub:~\href{https://github.com/om-ashish-soni}{om-ashish-soni}
+    &
+    Codeforces:~\href{https://codeforces.com/profile/om_ashish_soni}{om\_ashish\_soni}~
+    &
+    Leetcode: \href{https://leetcode.com/Om_Ashish_Soni}{Om\_Ashish\_Soni}
+    \end{tabular}
+    }
+\end{center}
+
+%-----------SUMMARY-------------------
+\textbf{SDE with 1.5 years at Mastercard, skilled in Java, Microservices, Algorithms and Expert at Codeforces}
+
+%-----------EXPERIENCE-------------------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Mastercard}{Vadodara, India}
+    {Software Engineer 1 (Full-time)}{June 2024 - Present}
+    \begin{itemize}[leftmargin=*]
+
+        \item Delivered 15+ production features for MDES Token Connect and MDES Pre-Digitization services consumed by 100+ issuer banks, 50+ digital wallets, and 1,000+ merchants.
+
+        \item Improved service performance by reducing response time by 80\% (to \textasciitilde2s) using Oracle indexing, and achieved an additional 76\% speed-up through Redis caching.
+
+        \item Built 5 scalable Java/Spring Boot microservices with production-grade quality; hands-on experience with Jenkins CI/CD pipelines and HashiCorp Vault.
+
+        \item Deployed microservices across 2 regions and 4 global data centers using Cloud Foundry.
+
+        \item Led a team of interns to develop 2 production-ready backend services using Kafka and Spring Scheduler.
+
+        \item Mentored 4 software engineers, supported on-call production operations, and integrated GitHub Copilot into MCP workflows to improve developer productivity.
+
+    \end{itemize}
+
+\resumeSubHeadingListEnd
+    
+%-----------SKILLS-----------------
+\section{Skills}
+	\resumeSubHeadingListStart
+	\resumeSubItem{Languages}{~~~~~~~Java, Go, JavaScript}
+	\resumeSubItem{Technology}{~~~~~SpringBoot, Kafka, NodeJS, MongoDB, Deep Learning, AI, NLP}
+	\resumeSubItem{Tools}{~~~~~~~~~~~~~~Docker, Git, Oracle SQL, Jenkins, Splunk, Dynatrace, IntelliJ, VS Code, Power BI, Bitbucket, Confluence}
+	\resumeSubItem{Cloud}{~~~~~~~~~~~~~AWS, GCP ( Google Cloud ), PCF ( Cloud Foundry) }
+
+    
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+\section{Internship Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading{Mastercard}{Vadodara, India}
+    {Summer Intern}{May 2023 - July 2023}
+    \resumeItemListStart
+        \item Built 3 types of DB Scheduler for database job execution including Oracle, Quartz and Auto Scheduler.
+        \item Automated load monitoring by detecting low load situations and processes over 1 million rows in 30s, by parallel and async processing by thread pooling, connection pooling.
+      \resumeItemListEnd
+\vspace{-5pt}
+    \resumeSubheading{Simulas}{Remote}
+		{NodeJs Intern}{May 2022 - July 2022}
+		\resumeItemListStart
+        \item Improved system by 430\% faster, sorted 30+ issues, caching to improve by 15× (30s reduced to 2s).
+        \item Worked on Google Cloud ( GCP ), AWS S3, Node,  Express, EJS, JWT, MongoDB.	
+		\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\vspace{-5pt}
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{Competitive Coding Hub (MongoDB, Angular, Node, Express, Flutter)}{Full-stack DSA practice platform with code editor, problem contributions, and solution backup.}
+\vspace{2pt}
+\resumeSubItem{AI Search Engine (Mistral LLM, Python, Streamlit, Node, Playwright)}{Real-time search engine with Mistral LLM-powered answers + source references, implemented embeddings, vector search, and API orchestration.}
+\vspace{2pt}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------PUBLICATIONS-----------------
+\section{Research Papers}
+\resumeSubHeadingListStart
+\resumeSubItem{NLP Part of Speech and Morphological Analysis (Research Paper, Source Code)}{Gujarati grammar prediction for POS and MORPH tags 95\% accuracy by BERT based Deep learning.}
+\vspace{2pt}
+\resumeSubItem{Reasoning from ancient Indian wisdom by AI (Research Paper, Source Code)}{Reasoning framework on 88k Indian ancient paragraphs, by FAISS vector search and Mistral LLM.}
+\resumeSubHeadingListEnd
+\vspace{-5pt}
+
+%-----------ACHIEVEMENTS-----------------
+\section{Achievements}
+\begin{description}[font=$\bullet$]
+\item {Awarded 3 Gold Medals for 1st rank at Dharmsinh Desai University - May 2024}
+\vspace{-5pt}
+\item {Global Rank 1, won GeeksForGeeks Contest 105 }
+\vspace{-5pt}
+\item {Global Rank 64 in Codechef 43B Contest}
+\vspace{-5pt}
+\item {Global Rank 288 in Codeforces 832 Contest  }
+\vspace{-5pt}
+\item {Gate Computer Science Qualified 2025 - All India Rank 2458}
+\vspace{-5pt}
+\item {5th Place in Bhashathon - 2025, for Audio Speech Recognition}
+
+\end{description}
+
+\vspace{-5pt}
+\section{Volunteer Experience}
+  \resumeSubHeadingListStart
+	\resumeSubheading
+    {Community Lead at DDU Coding Community}{Nadiad, India}
+    {Conducted online and offline technical \& soft-skills training impacting over 1000 students.}{June 2022 - Present}
+\vspace{5pt}
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Dharmsinh Desai University}{Nadiad, India}
+      {Bachelor of Technology - Computer Science'24;  GPA: 9.73, 3 Gold Medals}{}
+    \resumeSubHeadingListEnd	    
+
+\end{document}
