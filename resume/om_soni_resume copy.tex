@@ -68,15 +68,6 @@
     \end{tabular*}\vspace{-5pt}
 }
 
-\newcommand{\companyNameFull}[4]{
-  \vspace{-1pt}\item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-    \fontsize{12}{16}\selectfont\textbf{#1} & #2 \\
-    \textit{#3} & \textit{#4} \\
-    \end{tabular*}\vspace{-5pt}
-}
-
-
 \newcommand{\companyName}[2]{
   \vspace{-1pt}\item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
@@ -88,13 +79,6 @@
   \item[{$\circ$}]
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{\textit{#1}} & \textit{#2} \\
-    \end{tabular*}\vspace{-5pt}
-}
-
-\newcommand{\resumePosition}[2]{
-  \vspace{1pt}
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{#1} & \textit{#2} \\
     \end{tabular*}\vspace{-5pt}
 }
 
@@ -144,8 +128,8 @@
 %-----------EXPERIENCE-------------------
 \section{Experience}
   \resumeSubHeadingListStart
-    \companyNameFull{\href{https://www.mastercard.co.in/en-in.html}{Mastercard}}{Vadodara, India}
-    {Software Engineer 1 (Full-time)}{June 2024 - Present}
+    \companyName{\href{https://www.mastercard.co.in/en-in.html}{Mastercard}}{Vadodara, India}
+    \resumeSubheadingContinuation{Software Engineer 1 (Full-time)}{June 2024 - Present}
     \begin{itemize}[leftmargin=*]
 
         \item Built \textbf{\textit{\href{https://developer.mastercard.com/mdes-digital-card-art-service/documentation/}{Mastercard’s Digital Card Art Service}}} as a core engineer; developed 5 scalable Java/Spring Boot microservices with production-grade quality; hands-on experience with Jenkins CI/CD and HashiCorp Vault.
@@ -156,12 +140,12 @@
 
         \item Deployed microservices across \textbf{2 regions and 4 global data centers} using Cloud Foundry.
 
-        \item Recognized for contributions to Digital Card Art Service, resulted in \textbf{Leading and coaching a team} of interns to develop 2 microservices using \textbf{Kafka and Spring Scheduler.}
+        \item Recognized for contributions to Digital Card Art Service, resulted in \textbf{Leading a team} of interns and coached them to develop 2 microservices using \textbf{Kafka and Spring Scheduler.}
 
         \item \textbf{Mentored 5 software engineers}, improved on-call production stability by reducing customer-facing issues, performed peer code reviews, and integrated GitHub Copilot into MCP workflows to increase productivity.
 
     \end{itemize}
-    \resumePosition{Software Engineer Intern}{May 2023 - July 2023}
+    \resumeSubheadingContinuation{Software Engineer Intern}{May 2023 - July 2023}
     \begin{itemize}[leftmargin=*]
         \item Built 3 types of DB Scheduler for job processing including Oracle, Quartz and Auto Scheduler, load monitoring by detecting low load and processing 1M rows in 30s, through async parallel multi-threading and connection pooling.
         \item Promoted from Intern to Full-Time Software Engineer at Mastercard after 2 months of high performance.
@@ -183,8 +167,8 @@
     \resumeSubheadingFull{Simulas}{Remote}
 		{Summer Intern}{May 2022 - July 2022}
 		\resumeItemListStart
-        \item Developed RESTful APIs with Node, Express, MongoDB, AWS S3, and Google Cloud; led database migration	
         \item Improved system by 430\% faster, sorted 30+ issues, caching to improve by 15× (30s reduced to 2s).
+        \item Contributed development in Node, AWS S3, Express, EJS, MongoDB and hands on Google Cloud, JWT.	
 		\resumeItemListEnd
 \vspace{2pt}
 \resumeSubHeadingListEnd
@@ -195,15 +179,20 @@
 \resumeSubItem{\href{https://github.com/om-ashish-soni/competitive-coding-hub}
 {Competitive Coding Hub (Source Code)}} {Full-stack DSA practice platform with code editor, problem contributions, and solution backup. Tech: MongoDB, Angular, Node, Express, Flutter.}
 \vspace{2pt}
+\resumeSubItem{\href{https://github.com/om-ashish-soni/ai_search_engine}
+{AI Search Engine (Source Code)}} {Real-time search engine with Mistral LLM-powered answers + source references, implemented embeddings, vector search, and API orchestration. Tech: Mistral LLM, Python, Streamlit, Node, Playwright.}
+\vspace{4pt}
+\resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------------
+\section{Research Papers}
+\resumeSubHeadingListStart
 \resumeSubItem{\href{https://ijisae.org/index.php/IJISAE/article/view/5290/4016}{NLP Part of Speech and Morphological Analysis} (\href{https://ijisae.org/index.php/IJISAE/article/view/5290/4016}{Research Paper}, \href{https://github.com/om-ashish-soni/nlp-research-pos-morph-analysis-gujarti/tree/main}{Source Code})}
 {Designed a deep learning model for Gujarati grammar prediction, achieving 95\% accuracy for POS and MORPH tags, hosted on Super Computer at DDU. }
 \vspace{2pt}
 \resumeSubItem{\href{https://www.researchgate.net/publication/390543632_Vivechan_AI_Extracting_Wisdom_from_Ancient_Indian_Texts_Through_LLM}
 {AI based Reasoning Framework for Ancient Indian Texts} (\href{https://www.researchgate.net/publication/390543632_Vivechan_AI_Extracting_Wisdom_from_Ancient_Indian_Texts_Through_LLM}{Research Paper}, \href{https://github.com/om-ashish-soni/vivechan-ai-v3}{Source Code})}
 {Architected an AI reasoning framework on 88k ancient Indian paragraphs using FAISS vector search and Mistral LLM, Python, Streamlit UI.}
-\vspace{2pt}
-\resumeSubItem{\href{https://github.com/om-ashish-soni/ai_search_engine}
-{AI Search Engine (Source Code)}} {Real-time search engine with Mistral LLM-powered answers + source references, implemented embeddings, vector search, and API orchestration. Tech: Mistral LLM, Python, Streamlit, Node, Playwright.}
 \vspace{4pt}
 \resumeSubHeadingListEnd
 
@@ -220,8 +209,6 @@
 \vspace{-5pt}
 \item {\href{https://codeforces.com/contest/1747/standings/page/2}
 {Global Rank 288 in Codeforces 832 Contest.  }}
-\vspace{-5pt}
-\item { Published 2 Research Papers on \underline{\href{https://ijisae.org/index.php/IJISAE/article/view/5290/4016}{NLP Gujarati Grammer Tagging (1)}}, \underline{\href{https://www.researchgate.net/publication/390543632_Vivechan_AI_Extracting_Wisdom_from_Ancient_Indian_Texts}{AI Reasoning Framework for Ancient Text (2)}}}
 \vspace{-5pt}
 \item {\href{https://drive.google.com/file/d/1DUTp-W9xiTx4kVTVMqlbC6NIAOICt6ct/view?usp=drivesdk}
 {Gate Computer Science Qualified'25 - All India Rank 2458.}}
